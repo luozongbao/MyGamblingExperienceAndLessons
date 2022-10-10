@@ -1,0 +1,9 @@
+## build temp files
+*.bak
+*.aux
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.gz
