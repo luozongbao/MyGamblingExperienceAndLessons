@@ -1,2 +1,2 @@
-# gambling-blackjack
-my own personal gambling calculations
+# My Gambling Experience and Lessons
+
