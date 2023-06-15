@@ -7,3 +7,9 @@
 *.toc
 *.pdf
 *.gz
+*.fls
+*.synctex.gz
+*.fdb_latexmk
+*.xdv
+*.dvi
+
